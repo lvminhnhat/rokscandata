@@ -1,0 +1,10 @@
+{
+    "tesseract_path": "D:\\Code\\rok\\scanData\\roktrackerRemake\\roktrackerRemake\\Tesseract-OCR\\tesseract.exe",
+    "ldplayer_path": "C:\\LDPlayer\\LDPlayer4.0",
+    "data_dir": "data",
+    "logs_dir": "logs",
+    "screenshots_dir": "screenshots",
+    "devices_file": "config/devices.json",
+    "cli_mode": false,
+    "scan_option": 1
+}

@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "id": "0",
+      "name": "LDPlayer",
+      "running": false,
+      "in_use": false,
+      "status": "Stopped"
+    },
+    {
+      "id": "1",
+      "name": "Gamota-Scan-1",
+      "running": true,
+      "in_use": false,
+      "status": "Available"
+    },
+    {
+      "id": "2",
+      "name": "Gamota-Scan-2",
+      "running": false,
+      "in_use": false,
+      "status": "Stopped"
+    },
+    {
+      "id": "6",
+      "name": "QT-Farm1",
+      "running": true,
+      "in_use": false,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "name": "QT-Farm2",
+      "running": false,
+      "in_use": false,
+      "status": "Stopped"
+    }
+  ],
+  "devices_in_use": []
+}
